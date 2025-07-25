@@ -1,0 +1,30 @@
+[
+  {
+    "name": "EMS Body Sculpt Pro",
+    "slug": "ems-body-sculpt-pro",
+    "price": 299,
+    "image": "/products/ems.jpg",
+    "description": "Non-invasive muscle stimulation for body toning and fat reduction. Perfect for home or clinic use."
+  },
+  {
+    "name": "RF Skin Tightening Wand",
+    "slug": "rf-skin-tightening-wand",
+    "price": 199,
+    "image": "/products/rf.jpg",
+    "description": "Radio Frequency technology for anti-aging and skin tightening. Smooth fine lines and improve elasticity."
+  },
+  {
+    "name": "LED Light Therapy Mask",
+    "slug": "led-light-therapy-mask",
+    "price": 149,
+    "image": "/products/led-mask.jpg",
+    "description": "7-color LED mask for acne, rejuvenation, and glow enhancement. Easy at-home treatment."
+  },
+  {
+    "name": "Cryo Slimming Device",
+    "slug": "cryo-slimming-device",
+    "price": 399,
+    "image": "/products/cryo.jpg",
+    "description": "Fat-freezing cryotherapy for targeted body slimming. Advanced cooling technology for safe results."
+  }
+]
